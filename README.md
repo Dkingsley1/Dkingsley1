@@ -2,15 +2,17 @@
 
 ### AI Operations Specialist | AI-Assisted Trading Systems Builder | Business Administration Graduate
 
-I build practical AI-assisted systems where GPT/Codex-style tools are part of the engineering workflow: coding, debugging, documentation, testing, runbooks, source-of-truth control, and operational guardrails. My strongest current project is a multi-sleeve algorithmic trading research and paper-execution system that combines market ingestion, signal generation, risk metrics, broker/auth workflows, and AI-assisted software engineering discipline.
+I build practical AI-assisted systems where GPT/Codex-style tools are part of the engineering workflow: coding, debugging, documentation, testing, runbooks, source-of-truth control, and operational guardrails. My strongest current project is a multi-sleeve algorithmic trading research and paper-execution system that combines market data ingestion, signal generation, risk metrics, broker/auth workflows, and AI-assisted software engineering discipline.
+
+**Current focus:** AI-assisted algorithmic trading research, quantitative research tooling, Python automation, signal generation, market data ingestion, paper trading, Sharpe ratio, Sortino ratio, JSONL/SQL data workflows, GitHub documentation, regression testing, and operational automation with GPT/Codex-style tools.
 
 ---
 
 ## Technical Arsenal
 
-- **AI & Automation:** GPT/Codex-assisted engineering, agentic workflow design, prompt chaining, tool-calling logic, JSON validation, human-in-the-loop review, AI drift guardrails.
-- **Trading Systems & Data:** Python, SQL, JSONL event streams, market-data ingestion, paper execution, signal logging, performance reporting, operational runbooks.
-- **Analytics & Operations:** Excel/VBA, Tableau, Watson Analytics, source-of-truth documentation, incident reporting, process automation.
+- **AI & Automation:** GPT/Codex-assisted engineering, Claude/GPT-style AI tools, agentic workflow design, prompt chaining, tool-calling logic, JSON output validation, human-in-the-loop review, AI drift guardrails.
+- **Trading Systems & Data:** Python, SQL, JSONL event streams, market data ingestion, algorithmic trading, quantitative research, paper trading, signal generation, signal logging, performance reporting, risk metrics, Sharpe ratio, Sortino ratio, operational runbooks.
+- **Analytics & Operations:** Excel/VBA, Tableau, Watson Analytics, source-of-truth documentation, incident reporting, process automation, regression testing, GitHub workflows.
 - **Signal Workflow:** Digital signal processing, signal-chain architecture, audio/video pipeline management.
 
 ---
@@ -30,7 +32,7 @@ Recent engineering work includes:
 - Improved Schwab auth/report workflows and incident-report PDF recovery behavior.
 - Added project guardrails to reduce AI-assisted scope drift and keep README/docs/GitHub updates aligned with the system.
 
-**Relevant skills:** AI-assisted coding, Python, trading systems, quantitative research tooling, JSONL/SQL data workflows, operational automation, testing, GitHub documentation.
+**Relevant skills:** AI-assisted coding, Python, algorithmic trading, quantitative research tooling, market data ingestion, signal generation, paper trading, JSONL/SQL data workflows, risk metrics, testing, operational automation, GitHub documentation.
 
 ---
 
